@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **matheus-lima-o/matheus-lima-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Snake -->
+<div align="center">
+
+  ![snake gif](https://github.com/matheus-lima-o/matheus-lima-o/blob/output/github-snake-dark.svg)
+</div>
+
+<div align="center">
