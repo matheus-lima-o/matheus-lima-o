@@ -38,7 +38,7 @@ Access my professional experience in my [curriculum](https://github.com/matheus-
 - 📂 [Certificates](https://github.com/matheus-lima-o/Certificates)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslimaribeiro/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslimaribeiro/) <br>
 Email: matheuslimaribeiro03@gmail.com
 
 # 📊 Most Used Languages:
